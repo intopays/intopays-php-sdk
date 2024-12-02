@@ -1,5 +1,5 @@
 {
-  "name": "raphael/sdk-intopays",
+  "name": "raphaelvserafim/sdk-intopays",
   "autoload": {
     "psr-4": {
       "SdkIntopays\\": "src/"
