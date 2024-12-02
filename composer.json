@@ -1,17 +1,20 @@
 {
-    "name": "raphael/sdk-intopays",
-    "autoload": {
-        "psr-4": {
-            "SdkIntopays\\": "src/"
-        }
-    },
-    "authors": [
-        {
-            "name": "Raphael Serafim",
-            "email": "raphaelvserafim@gmail.com"
-        }
-    ],
-    "require": {
-        "guzzlehttp/guzzle": "^7.9"
+  "name": "raphael/sdk-intopays",
+  "autoload": {
+    "psr-4": {
+      "SdkIntopays\\": "src/"
     }
+  },
+  "license": "MIT",
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "authors": [
+    {
+      "name": "Raphael Serafim",
+      "email": "raphaelvserafim@gmail.com"
+    }
+  ],
+  "require": {
+    "guzzlehttp/guzzle": "^7.9"
+  }
 }
