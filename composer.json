@@ -1,0 +1,17 @@
+{
+    "name": "raphael/sdk-intopays",
+    "autoload": {
+        "psr-4": {
+            "SdkIntopays\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Raphael Serafim",
+            "email": "raphaelvserafim@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.9"
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "id": 292,
+    "transactionId": "XXXINTOPAYSXXXSICOOBXXXPIXXXXXXX292",
+    "transactionEndId": null,
+    "calendarCreation": null,
+    "calendarExpiration": 86400,
+    "revision": null,
+    "locId": null,
+    "locLocation": null,
+    "locType": null,
+    "location": null,
+    "status": "ACTIVE",
+    "debtorName": "Lucas Lopes",
+    "debtorDocument": "",
+    "amountOriginal": 10.99,
+    "amountModificationType": 0,
+    "pixKey": "sdk@intopays.com",
+    "qrcode": null,
+    "url": null,
+    "payerRequest": "Esse texto est\u00e1 limitado a 140 caracteres.",
+    "integrationType": "SICOOB",
+    "createdAt": "2024-12-02T22:43:30.323Z",
+    "updatedAt": "2024-12-02T22:43:30.354Z",
+    "additionalInfos": [
+        {
+            "id": 286,
+            "name": "Campo 1",
+            "value": "Informa\u00e7\u00e3o Adicional do PSP-Recebedor",
+            "createdAt": "2024-12-02T22:43:30.343Z",
+            "updatedAt": "2024-12-02T22:43:30.340Z"
+        }
+    ]
+}
